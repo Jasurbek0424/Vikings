@@ -296,15 +296,11 @@ header::after {
 
 }
 
-
-
-.hero_left {
-    /* margin-bottom: 114px; */
+.slayd_order{
+    height: 100%;
 }
 
-/* .hero_left{
-    width: 75%;
-} */
+
 
 .serial {
     color: white;
